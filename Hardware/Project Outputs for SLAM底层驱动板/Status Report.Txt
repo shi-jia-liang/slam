@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [SLAMµ×²ãÇı¶¯°å.PrjPcb]
+   Generated File[µ×²ãÇı¶¯°åV2.GTO]
+   Generated File[µ×²ãÇı¶¯°åV2.GTP]
+   Generated File[µ×²ãÇı¶¯°åV2.GTS]
+   Generated File[µ×²ãÇı¶¯°åV2.GTL]
+   Generated File[µ×²ãÇı¶¯°åV2.GBL]
+   Generated File[µ×²ãÇı¶¯°åV2.GBS]
+   Generated File[µ×²ãÇı¶¯°åV2.GBP]
+   Generated File[µ×²ãÇı¶¯°åV2.GBO]
+   Generated File[µ×²ãÇı¶¯°åV2.GM1]
+   Generated File[µ×²ãÇı¶¯°åV2.GM5]
+   Generated File[µ×²ãÇı¶¯°åV2.GM6]
+   Generated File[µ×²ãÇı¶¯°åV2.GM13]
+   Generated File[µ×²ãÇı¶¯°åV2.GM15]
+   Generated File[µ×²ãÇı¶¯°åV2.GKO]
+   Generated File[µ×²ãÇı¶¯°åV2.GPT]
+   Generated File[µ×²ãÇı¶¯°åV2.GPB]
+   Generated File[µ×²ãÇı¶¯°åV2.GD1]
+   Generated File[µ×²ãÇı¶¯°åV2.GG1]
+   Generated File[µ×²ãÇı¶¯°åV2.RUL]
+   Generated File[µ×²ãÇı¶¯°åV2.EXTREP]
+   Generated File[µ×²ãÇı¶¯°åV2.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 22:03:48 On 2024/4/6
